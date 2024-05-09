@@ -119,7 +119,6 @@ db.entrenadores.insertMany([
         documento:"0896",
         edad:"20",
         experiencia:"7 años"
-
     },
     {
         nombres:"Javier",
@@ -127,7 +126,6 @@ db.entrenadores.insertMany([
         documento:"2531",
         edad:"19",
         experiencia:"15 años"
-
     },
     {
         nombres:"Mateo",
@@ -135,7 +133,6 @@ db.entrenadores.insertMany([
         documento:"24857",
         edad:"20",
         experiencia:"9 años"
-
     },
     {
         nombres:"Gonzalo",
