@@ -112,7 +112,6 @@ db.entrenadores.insertMany([
         documento:"4576",
         edad:"19",
         experiencia:"10 años"
-
     },
     {
         nombres:"Wilman",
