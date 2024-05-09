@@ -1,5 +1,8 @@
 # CÓDIGO BASE DE DATOS NOSQL
 
+## Hernan Daniel Heenandez
+## Albert Stive Ospina
+
 Usar base de datos
 ```
 use eventodeportivo;
