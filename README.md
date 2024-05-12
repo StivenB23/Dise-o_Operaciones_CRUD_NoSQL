@@ -3,6 +3,10 @@
 ## Hernan Daniel Heenandez
 ## Albert Stive Ospina
 
+# Link modelo
+Draw.io
+https://drive.google.com/file/d/1Yka-bwgrW0ijJczYU4KYuAGAalYTPtRB/view
+
 Usar base de datos
 ```
 use eventodeportivo;
